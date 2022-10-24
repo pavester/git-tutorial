@@ -1,2 +1,2 @@
 # my-github-repo
-I will test mz knowledge on this repo
+I will test my knowledge on this repo
